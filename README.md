@@ -6,6 +6,10 @@
 <div/>
 
 - 📫 How to reach me **silvanaranjogustavoandres@gmail.com**
+<br/>
+<div align="center">
+  <a href="https://wakatime.com/@40c760a5-def5-4742-8cb9-08d0c5a9de32"><img src="https://wakatime.com/badge/user/40c760a5-def5-4742-8cb9-08d0c5a9de32.svg" alt="Total time coded since Jun 4 2022" /></a>
+<div/>
 
 <br/>
 
